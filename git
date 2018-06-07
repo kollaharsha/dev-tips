@@ -1,0 +1,2 @@
+Find the branch creation time
+git reflog show --date=iso refs/remotes/origin/release/2.0.1 <remote_branch_name>
